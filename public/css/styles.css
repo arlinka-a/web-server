@@ -1,0 +1,31 @@
+body{
+    font-family: 'Courier New', Courier, monospace; 
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px;
+    display: flex;
+    flex-direction: column; 
+}
+h1{
+    color: purple;
+}
+img{
+    width: 325px;
+    height: 250px;
+}
+footer{
+    background-color: lightblue;
+    color: azure;
+    margin-top: 10px;
+}
+header{
+    background-color: rgb(211, 134, 211);
+    color: azure;
+    margin-bottom: 10px;
+}
+header a{
+    text-decoration: none;
+}
+button{
+    cursor: pointer;
+}
